@@ -5,4 +5,4 @@
 # Tecnologías: 
   Angular | HTML | CSS | JavaScript | TypeScript | Java | React | SpringBoot
 # Habilidades blandas:
-  Comunicación | flexibilidad 
+  Comunicación | flexibilidad | eficiencia 
