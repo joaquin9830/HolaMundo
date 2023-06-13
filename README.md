@@ -4,3 +4,5 @@
 🎓 Actualmente estoy estudiando programación en UTN 
 # Tecnologías: 
   Angular | HTML | CSS | JavaScript | TypeScript | Java | React | SpringBoot
+# Habilidades blandas:
+  Comunicación | flexibilidad 
