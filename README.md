@@ -6,4 +6,4 @@
   Angular | HTML | CSS | JavaScript | TypeScript | Java | React | SpringBoot
 # Habilidades blandas:
   Comunicación | flexibilidad | eficiencia 
-#Nueva validación 1.1
+# Nueva validación 1.1
