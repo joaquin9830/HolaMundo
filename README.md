@@ -7,3 +7,4 @@
 # Habilidades blandas:
   Comunicación | flexibilidad | eficiencia 
 # Nueva validación 1.1
+Modificación 1.2
